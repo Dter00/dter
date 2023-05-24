@@ -681,7 +681,7 @@ body
    position: absolute;
    left: 309px;
    top: 173px;
-   width: 307px;
+   width: 476px;
    height: 130px;
    z-index: 7;
 }
@@ -885,7 +885,7 @@ body
 {
    left: 192px;
    top: 173px;
-   width: 317px;
+   width: 501px;
    height: 130px;
    visibility: visible;
    display: inline;
@@ -1287,7 +1287,7 @@ body
 {
    left: 90px;
    top: 173px;
-   width: 320px;
+   width: 403px;
    height: 130px;
    visibility: visible;
    display: inline;
@@ -1947,8 +1947,8 @@ body
 #wb_Text9
 {
    left: 52px;
-   top: 173px;
-   width: 217px;
+   top: 172px;
+   width: 268px;
    height: 91px;
    visibility: visible;
    display: inline;
@@ -2259,9 +2259,9 @@ body
 }
 #wb_Text7
 {
-   left: 36px;
-   top: 173px;
-   width: 185px;
+   left: 30px;
+   top: 175px;
+   width: 213px;
    height: 78px;
    visibility: visible;
    display: inline;
